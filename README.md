@@ -31,7 +31,7 @@ The summary
 Analysis of the multiple line graphs
 1. Trend: It is evident from the line graphs that the total weekly fare for Rural and Suburban cities follows a fairly similar trend over the first 4 months of 2019. It is also evident that the trend for total weekly fares for Urban cities is different for Urban cities. For Urban cities from the second week of Feb. to end of Mar. there are alot of fluctions in the total weekly fares. Suburban cities collect the highest weekly fare from the 2nd to 3rd week of Feb. whilst rural cities collect the highest weekly fare from the 3rd to 4th week of March. Overall second to third week of feb shows an increase in weekly fares, possibly due to valentined week! 
 2. Urban cities fluctuations between 2nd week of Feb. to end of March needs to be investigated. It is possible that there was more demand for drivers due to a higer need for rides but Urban cities could perhaps not fulfill this demand due to limited supply of drivers. This should be investigated further to provide more meaningful analysis.
-3. The multiple line grap char ignores other factors as population, demograpgics, density etc. It would be advisable to plot a bubble chart taking population or weather into consideration in addition to the above.
+3. The multiple line graph chart ignores other factors as population, demograpgics, density etc. It would be advisable to plot a bubble chart taking population or weather into consideration in addition to the above.
 4. I have assumed a box and whisker plot for each city type did not show any outliers and the data used was within the acceptable range. 
 
 --- 
