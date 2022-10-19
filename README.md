@@ -2,13 +2,13 @@
 ## Overview of PyBer Analysis: 
 ---
 
-The purpose of the analysis was to provide insights about the ride-sharing data for each city type so as to provide recommendations to the CEO V. Isualize. To begin with the data set for the various cities was sorted and analysed between the type of city. There are 3 different types of cities, Urban, Suburban and Rural. This analysis sought to provide a birds eye view of each city type without diving deep into the various cities with in theses city types. The analysis was summarized into a summary of findings or PyBer Summary Dataframe. A further analysis was carried out to examine the total weekly fare for each city type between Jan 1,2019 to Apr 29, 2019. The findings of this analysis was plotted into a multiple line chart which comes in handly whilst comparing the trend of how the total fare per week varied over January to April as well as the trend between the 3 city types.
+The purpose of the analysis was to provide insights about the ride-sharing data for each city type so as to provide recommendations to the CEO V. Isualize. To begin with the data set for the various cities was sorted and analysed between the type of city. There are 3 different types of cities, Urban, Suburban and Rural. This analysis sought to provide a birds eye view of each city type without diving deep into the various cities with in theses city types. The analysis was summarized into a summary of findings or PyBer Summary Dataframe. A further analysis was carried out to examine the total weekly fare for each city type between Jan 1,2019 to Apr 28, 2019. The findings of this analysis was plotted into a multiple line chart which comes in handly whilst comparing the trend of how the total fare per week varied over January to April as well as the trend between the 3 city types.
 
 --- 
 ## Results  
 ---
 
-The results are brokendown between an analysis of the PyBer Summary Dataframe and a graphical analysis of PyBer weekly fare summary per city type for Jan 1,2019 to Apr 29, 2019.  
+The results are brokendown between an analysis of the PyBer Summary Dataframe and a graphical analysis of PyBer weekly fare summary per city type for Jan 1,2019 to Apr 28, 2019.  
 
 ---
 ### Results of Pyber's summarized data:
@@ -23,10 +23,10 @@ The summary
 5. Average Fare per Driver: This also has an inverse relationship to total rides, total drivers ana total fares. Urban cities have the lowest average fare per driver at $16.57 followed by Suburban cities at $39.50 and Rural cities leading at $55.49. This could be attributed to demand exceeding supply or could also be attributed to higher fares charged in general. There may be a reason for charging the higher fares, for instance the distances travelled may be longer and the trips may demand more attention by the drivers. This would need to be investigated furhter. 
 
 ---
-### Results of the graphical analysis of PyBer weekly fare summary per city type for Jan 1,2019 to Apr 29, 2019:
+### Results of the graphical analysis of PyBer weekly fare summary per city type for Jan 1,2019 to Apr 28, 2019:
 ---
 
-![PyBer Fare Summary Jan 1, 2019 to Apr 29, 2019](https://github.com/fareenamughal/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary_20190101_20190429.png)
+![PyBer Fare Summary Jan 1, 2019 to Apr 28, 2019](https://github.com/fareenamughal/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary_20190101_20190428.png)
 
 Analysis of the multiple line graphs
 1. Trend: It is evident from the line graphs that the total weekly fare for Rural and Suburban cities follows a fairly similar trend over the first 4 months of 2019. It is also evident that the trend for total weekly fares for Urban cities is different for Urban cities. For Urban cities from the second week of Feb. to end of Mar. there are alot of fluctions in the total weekly fares. Suburban cities collect the highest weekly fare from the 2nd to 3rd week of Feb. whilst rural cities collect the highest weekly fare from the 3rd to 4th week of March. Overall second to third week of feb shows an increase in weekly fares, possibly due to valentined week! 
