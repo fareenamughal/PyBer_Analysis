@@ -26,7 +26,7 @@ The summary
 ### Results of the graphical analysis of PyBer weekly fare summary per city type for Jan 1,2019 to Apr 28, 2019:
 ---
 
-![PyBer Fare Summary Jan 1, 2019 to Apr 28, 2019](https://github.com/fareenamughal/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary_20190101_20190428.png)
+![Revised NYC Citibike csv file](https://github.com/fareenamughal/bikesharing/blob/5082e0ac1987257a5e8bb1d4bd9399a949494e53/Images/screenshot_nyc_citibike_rev_csv_file.png)
 
 Analysis of the multiple line graphs
 1. Trend: It is evident from the line graphs that the total weekly fare for Rural and Suburban cities follows a fairly similar trend over the first 4 months of 2019. It is also evident that the trend for total weekly fares for Urban cities is different for Urban cities. For Urban cities from the second week of Feb. to end of Mar. there are alot of fluctions in the total weekly fares. Suburban cities collect the highest weekly fare from the 2nd to 3rd week of Feb. whilst rural cities collect the highest weekly fare from the 3rd to 4th week of March. Overall second to third week of feb shows an increase in weekly fares, possibly due to valentined week! 
